@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Pakorn Sagulkoo (He/Him) is a physician at the Center of Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a degree of doctor of medicine and a master's degree in bioinformatics and computational biology from Chiang Mai University and Chulalongkorn University, Thailand, respectively. 
+
+Recently, He is a PhD candidate at Chulalongkorn University. He also joined a double doctoral degree program in computational biology at the Institute of Systems, Molecular (ISMIB), and Integrative Biology, University of Liverpool, UK. Moreover, he is studying for a part-time bachelor's degree in mathematics at Ramkhamhaeng University, Thailand, for a deeper understanding of the mathematical and computational background in bioinformatics and machine learning. 
+
+His current research of interest is artificial neural network applications in biological networks in cancer single-cell omics data. He is interested in mathematical modelling in biomedical science as well.
+
+
