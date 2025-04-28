@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pakorn Sagulkoo (He/Him) is a physician at the Center of Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a degree of doctor of medicine and a master's degree in bioinformatics and computational biology from Chiang Mai University and Chulalongkorn University, Thailand, respectively. 
+Pakorn Sagulkoo (he/him) is a physician at the Centre for Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a Doctor of Medicine degree from Chiang Mai University and a Master’s degree in Bioinformatics and Computational Biology from Chulalongkorn University, Thailand.
 
-Recently, He is a PhD candidate at Chulalongkorn University. He also joined a double doctoral degree program in computational biology at the Institute of Systems, Molecular (ISMIB), and Integrative Biology, University of Liverpool, UK. Moreover, he is studying for a part-time bachelor's degree in mathematics at Ramkhamhaeng University, Thailand, for a deeper understanding of the mathematical and computational background in bioinformatics and machine learning. 
+He is currently a PhD candidate at Chulalongkorn University and is also enrolled in a double doctoral degree programme in Computational Biology at the Institute of Systems, Molecular and Integrative Biology (ISMIB), University of Liverpool, UK. In addition, he is pursuing a part-time Bachelor’s degree in Mathematics at Ramkhamhaeng University, Thailand, to deepen his understanding of the mathematical and computational foundations of bioinformatics and machine learning.
 
-His current research of interest is artificial neural network applications in biological networks in cancer single-cell omics data. He is interested in mathematical modelling in biomedical science as well.
+His current research interests include the application of artificial neural networks to biological networks in cancer single-cell omics data. He is also interested in mathematical modelling in biomedical sciences.
 
 
