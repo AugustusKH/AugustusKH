@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pakorn Sagulkoo (he/him) is a physician at the Centre for Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a Doctor of Medicine degree from Chiang Mai University and a Master’s degree in Bioinformatics and Computational Biology from Chulalongkorn University, Thailand.
+Pakorn Sagulkoo (he/him) is a physician at the Center for Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a Doctor of Medicine degree from Chiang Mai University and a Master’s degree in Bioinformatics and Computational Biology from Chulalongkorn University, Thailand.
 
 He is currently a PhD candidate at Chulalongkorn University and is also enrolled in a double doctoral degree programme in Computational Biology at the Institute of Systems, Molecular and Integrative Biology (ISMIB), University of Liverpool, UK. In addition, he is pursuing a part-time Bachelor’s degree in Mathematics at Ramkhamhaeng University, Thailand, to deepen his understanding of the mathematical and computational foundations of bioinformatics and machine learning.
 
