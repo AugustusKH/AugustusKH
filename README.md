@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Pakorn Sagulkoo (he/him) is a physician at the Center of Biomedical Informatics, Chiang Mai University, Thailand. He graduated with a Doctor of Medicine (MD) degree from Chiang Mai University and a Master of Science (MSc) degree in Bioinformatics and Computational Biology from Chulalongkorn University, Thailand.
+Pakorn Sagulkoo (he/him) is a physician based at the Center of Biomedical Informatics, Chiang Mai University, Thailand. He holds a Doctor of Medicine (MD) degree from Chiang Mai University and a Master of Science (MSc) in Bioinformatics and Computational Biology from Chulalongkorn University, Thailand. He also earned a Bachelor of Science (BSc) in Mathematics with a Minor in Statistics from Ramkhamhaeng University, Thailand.
 
-He is currently a PhD candidate at Chulalongkorn University and is also enrolled in a double doctoral degree programme in Computational Biology at the Institute of Systems, Molecular and Integrative Biology (ISMIB), University of Liverpool, UK. In addition, he is pursuing a part-time Bachelor’s degree in Mathematics at Ramkhamhaeng University, Thailand, to deepen his understanding of the mathematical and computational foundations of bioinformatics and machine learning.
+He is currently pursuing a PhD at Chulalongkorn University and is enrolled in a double doctoral degree programme in Computational Biology at the Institute of Systems, Molecular and Integrative Biology (ISMIB), University of Liverpool, United Kingdom.
 
-His current research interests include the application of artificial neural networks to biological networks in cancer single-cell omics data. He is also interested in mathematical modelling in biomedical sciences.
+His research interests include the application of artificial neural networks to biological networks in cancer single-cell omics data. He is also interested in mathematical modelling and computational topology in the biomedical sciences.
 
 
